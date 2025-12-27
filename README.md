@@ -1,5 +1,5 @@
 # EgoBike
-electric dirt bike project (mb for making this repo so late, just trying to document and back up stuff)
+Electric Dirt Bike project (mb for making this repo so late, just trying to document and back up stuff)
 
 CURRENT PARTS LIST: 
 
