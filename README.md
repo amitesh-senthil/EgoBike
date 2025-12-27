@@ -1,12 +1,17 @@
-# EgoBike
 
-![Uploading Screenshot 2025-12-27 at 11.32.52 AM.png…]()
+<img width="581" height="369" alt="Screenshot 2025-12-27 at 11 42 34 AM" src="https://github.com/user-attachments/assets/36aee1b5-4e7a-4fdc-a063-d450be450d37" />
 
+# EgoBike [master sketch above]
 
-Electric Dirt Bike project (mb for making this repo so late, just trying to document and back up stuff)
+Electric Dirt Bike project (mb for making this repo so late, just trying to document and back up stuff) 
 
+# Why am I doing this?
 
-CURRENT PARTS LIST: 
+I got rejected from a college and I'm building a project to prove to myself what I can do, while learning about mig welding, steel frames, suspension mechanisms and just dealing with real world factors. Primarily I've been involved in the FIRST TECH CHALLENGE and various side projects but I've never done something this big with a low budget, making me challenge myself to get it all done withing 600 or 700 dollars. Also I procrassinated getting my lisence so this can be a cool alternative 😃.
+
+But if you are interested in checking out my other projects, heres trash talker AI, a website and real life trash can that can classify plastic film, recyclables and waste: https://trashtalker-01.streamlit.app/
+
+# CURRENT PARTS LIST: 
 
 Battery	165.99	Electronics	amzn	48V 15Ah Li-ion
 Motor	106.34	Electronics	hmdpt	48V 750–1000W BLDC
@@ -26,4 +31,9 @@ Total: 569.05 MRSP
 
 Facebook Market Place can get this price lower^
 
+REACH OUT TO ME IF YOU HAVE ANY QUESTIONS OR NEED ANYTHING
+
 https://docs.google.com/spreadsheets/d/1ZCkILZDlmM2NbfcRp_u6Zbt60uKZDxJo2wRkMPsiC-Q/edit?usp=sharing [updated BOM]
+
+
+
