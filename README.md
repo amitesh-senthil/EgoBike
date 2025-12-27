@@ -1,5 +1,10 @@
 # EgoBike
+
+![Uploading Screenshot 2025-12-27 at 11.32.52 AM.png…]()
+
+
 Electric Dirt Bike project (mb for making this repo so late, just trying to document and back up stuff)
+
 
 CURRENT PARTS LIST: 
 
