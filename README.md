@@ -1,6 +1,4 @@
 
-<img width="525" height="529" alt="rando wheel" src="https://github.com/user-attachments/assets/ec8af208-e608-4ef8-acc9-c2708856597c" />
-<img width="506" height="468" alt="Suspension Mark2" src="https://github.com/user-attachments/assets/ca357928-352e-4577-a4ce-496b3b9b4945" />
 <img width="781" height="537" alt="EgoBike Mark2" src="https://github.com/user-attachments/assets/c3db1848-b588-4505-893c-70d2f79d6abc" />
 
 
